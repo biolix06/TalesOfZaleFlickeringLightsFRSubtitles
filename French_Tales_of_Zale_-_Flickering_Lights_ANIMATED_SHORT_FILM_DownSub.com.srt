@@ -44,7 +44,7 @@ BAH !  Je peux prendre soin de moi tout seul!
 
 12
 00:00:43,162 --> 00:00:44,953
-Tu vois?  Il va bien.
+Tu vois?  Il va bien. /!\
 
 13
 00:00:45,536 --> 00:00:47,119
@@ -76,7 +76,7 @@ Aww, allez sœurette !
 
 20
 00:01:01,992 --> 00:01:03,367
-Eh bien, tu l'as entendu.
+Eh bien, tu as entendu.
 
 21
 00:01:03,367 --> 00:01:04,325
@@ -108,7 +108,7 @@ Ne serait-ce pas le renard aux yeux bleus.
 
 28
 00:02:34,522 --> 00:02:36,022
-Ah !  Salut Morpheus !
+Ah ! Salut Morpheus !
 
 29
 00:02:36,022 --> 00:02:37,188
@@ -176,7 +176,7 @@ Hmm.
 
 45
 00:04:17,466 --> 00:04:19,258
-C'est presque sûr qu'il est cassé.
+C'est presque sûr qu'il est cassé. /!\
 
 46
 00:04:24,300 --> 00:04:26,383
@@ -232,15 +232,15 @@ Des conseils?
 
 59
 00:05:06,919 --> 00:05:09,335
-Que diriez-vous d'attendre jusqu'à ce que vous soyez à part entière? /!\
+Et si tu attendais de grandir un peu?
 
 60
 00:05:09,460 --> 00:05:10,419
-Oh allez ! /!\
+Oh allez !
 
 61
 00:05:10,752 --> 00:05:12,335
-Tu n'as même pas fait attention ! /!\
+Tu n'as même pas regardé !
 
 62
 00:05:12,335 --> 00:05:13,668
@@ -260,7 +260,7 @@ D'accord.
 
 66
 00:05:22,625 --> 00:05:23,209
-Heure du coucher.
+Heure du coucher. /!\
 
 67
 00:05:23,792 --> 00:05:24,500
@@ -288,11 +288,11 @@ Mauvaise direction.
 
 73
 00:06:37,991 --> 00:06:41,990
-Tu devrais vraiment apprendre à avoir plus peur.
+Tu devrais vraiment apprendre à avoir plus peur. /!\
 
 74
 00:06:43,907 --> 00:06:47,573
-Hé.  Croyez-moi, je le suis.
+Hé.  Croyez-moi, j'ai peur. /!\
 
 75
 00:06:47,906 --> 00:06:48,406
@@ -312,7 +312,7 @@ Que ...
 
 79
 00:06:55,405 --> 00:06:57,321
-Alors lâche-moi !
+Alors lâche-moi ! /!\
 
 80
 00:07:04,820 --> 00:07:06,154
@@ -324,11 +324,11 @@ Est-ce que tu vas bien?
 
 82
 00:07:07,570 --> 00:07:09,362
-C'est mon texte! /!\
+C'est moi qui devrait dire ça!
 
 83
 00:07:09,653 --> 00:07:11,403
-Et ce n'est que de la boue de ma part...
+Et ce n'est que de la boue... /!\
 
 84
 00:07:13,153 --> 00:07:15,694
@@ -340,7 +340,7 @@ Je ne peux pas.
 
 86
 00:07:18,902 --> 00:07:20,402
-Et pourquoi pas?
+Pourquoi?
 
 87
 00:07:23,693 --> 00:07:25,651
@@ -364,7 +364,7 @@ Je comprends, d'accord ?
 
 92
 00:07:56,480 --> 00:07:57,147
-Bien.
+Et bien. /!\
 
 93
 00:07:57,147 --> 00:07:58,230
@@ -396,11 +396,11 @@ Regarde Elva !
 
 100
 00:08:41,225 --> 00:08:42,891
-Oui, oui, bon travail.
+Oui, oui, bien joué.
 
 101
 00:08:43,224 --> 00:08:44,433
-Tu es tout boueux maintenant.
+Tu es pleins de boue maintenant.
 
 102
 00:08:46,349 --> 00:08:47,057
@@ -444,9 +444,9 @@ Oh !
 
 112
 00:09:08,429 --> 00:09:10,471
-Maintenant, je suis toute boueuse !
+Maintenant, je suis pleine de boue !
 
 113
 00:09:58,715 --> 00:10:00,464
-Il est était temps.
+Il était temps.
 
