@@ -44,7 +44,7 @@ BAH !  Je peux prendre soin de moi tout seul!
 
 12
 00:00:43,162 --> 00:00:44,953
-Tu vois?  Il va bien. /!\
+Tu vois?  Il n'a pas besoins de moi. /!\
 
 13
 00:00:45,536 --> 00:00:47,119
@@ -88,7 +88,7 @@ Pas juste!
 
 23
 00:01:05,867 --> 00:01:07,200
-Je te vois plus tard alors!
+On se voit plus tard alors!
 
 24
 00:01:07,867 --> 00:01:08,950
@@ -244,7 +244,7 @@ Tu n'as même pas regardé !
 
 62
 00:05:12,335 --> 00:05:13,668
-Ce n'est pas juste!
+C'est pas juste!
 
 63
 00:05:13,668 --> 00:05:15,418
@@ -268,7 +268,7 @@ HEIN!?
 
 68
 00:05:25,208 --> 00:05:27,541
-... Ce n'est pas juste...
+... C'est pas juste...
 
 69
 00:06:09,703 --> 00:06:10,786
