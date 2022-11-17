@@ -20,7 +20,7 @@ Cet endroit est bien trop dangereux.
 
 6
 00:00:26,414 --> 00:00:28,122
-Aw, ça ira.
+Oh, ça ira.
 
 7
 00:00:28,997 --> 00:00:31,621
@@ -72,11 +72,11 @@ Je vais m'occuper du petit avorton !
 
 19
 00:00:59,534 --> 00:01:01,992
-Aww, allez sœurette !
+Oh, allez sœurette !
 
 20
 00:01:01,992 --> 00:01:03,367
-Eh bien, tu as entendu.
+Eh bien, tu l'as entendu.
 
 21
 00:01:03,367 --> 00:01:04,325
@@ -112,7 +112,7 @@ Ah !  Salut Morpheus !
 
 29
 00:02:36,022 --> 00:02:37,188
-Qu'est-ce que c'est ça?
+Qu'est-ce que c'est que ça?
 
 30
 00:02:37,438 --> 00:02:39,355
@@ -176,7 +176,7 @@ Hmm.
 
 45
 00:04:17,466 --> 00:04:19,258
-C'est presque sûr qu'il est cassé. /!\
+Presque sûr qu'il est cassé.
 
 46
 00:04:24,300 --> 00:04:26,383
@@ -200,7 +200,7 @@ Vraiment!?
 
 51
 00:04:36,631 --> 00:04:38,381
-Pensez-vous qu'il reviendra ? /!\
+Vous pensez qu'il reviendra ?
 
 52
 00:04:51,838 --> 00:04:52,671
@@ -252,7 +252,7 @@ Papa t'a dit de veiller sur moi,
 
 64
 00:05:15,418 --> 00:05:18,793
-mais tu ne fais que t'inquiéter et tu ne fais rien ! /!\
+mais tu ne fais que t'inquiéter et ne rien faire !
 
 65
 00:05:21,209 --> 00:05:22,084
@@ -260,7 +260,7 @@ Très bien.
 
 66
 00:05:22,625 --> 00:05:23,209
-C'est l'heure de dormir. /!\
+C'est l'heure d'aller au lit. /!\
 
 67
 00:05:23,792 --> 00:05:24,500
@@ -288,11 +288,11 @@ Mauvaise direction.
 
 73
 00:06:37,991 --> 00:06:41,990
-Tu devrais vraiment apprendre à avoir peur. /!\
+Tu devrais vraiment apprendre à avoir peur.
 
 74
 00:06:43,907 --> 00:06:47,573
-Hé.  Croyez-moi, j'ai peur. /!\
+Hé.  Croyez-moi, j'ai peur.
 
 75
 00:06:47,906 --> 00:06:48,406
@@ -328,7 +328,7 @@ C'est moi qui devrait dire ça!
 
 83
 00:07:09,653 --> 00:07:11,403
-Et ce n'est que de la boue... /!\
+Et ce n'est que de la boue...
 
 84
 00:07:13,153 --> 00:07:15,694
@@ -364,7 +364,7 @@ Je comprends, d'accord ?
 
 92
 00:07:56,480 --> 00:07:57,147
-Et bien. /!\
+Et bien.
 
 93
 00:07:57,147 --> 00:07:58,230
