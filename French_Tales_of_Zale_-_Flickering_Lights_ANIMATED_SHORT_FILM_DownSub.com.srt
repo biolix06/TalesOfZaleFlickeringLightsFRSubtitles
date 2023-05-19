@@ -44,7 +44,7 @@ BAH !  Je peux prendre soin de moi tout seul!
 
 12
 00:00:43,162 --> 00:00:44,953
-Tu vois?  Il n'a pas besoins de moi. /!\
+Tu vois? Il n'a pas besoins de moi.
 
 13
 00:00:45,536 --> 00:00:47,119
@@ -156,11 +156,11 @@ Euh-- eh bien...
 
 40
 00:03:57,553 --> 00:03:59,178
-Vous n'avez pas froid ?
+Vous n'avez pas froid ? ...
 
 41
 00:03:59,511 --> 00:04:03,011
-Vous restez ici tout seul, et... euh...
+À restez ici tout seul, et... euh...
 
 42
 00:04:05,094 --> 00:04:06,510
@@ -172,7 +172,7 @@ Que ça change.
 
 44
 00:04:15,092 --> 00:04:16,426
-Hmm.
+Hmm...
 
 45
 00:04:17,466 --> 00:04:19,258
